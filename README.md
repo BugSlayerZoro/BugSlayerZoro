@@ -1,16 +1,23 @@
-## Hi there 👋
+# ⚔️ BugSlayerZoro
 
-<!--
-**BugSlayerZoro/BugSlayerZoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, I’m **BugSlayerZoro**  
+I hunt bugs and sharpen code like a swordsman.  
+Open-source, automation, and a bit of AI are my weapons of choice.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Current Arsenal
+- 🐍 Python, 🟦 TypeScript, ☕ JavaScript
+- ⚡ Building scripts, bots, and open-source utilities
+- 🤖 Exploring AI and automation
+
+---
+
+### 📂 Repos You Might Like
+- 🛠️ **oss-tools** → Handy utilities for devs  
+- 🕵️ **bug-hunt** → Experiments in debugging & clean code  
+- 🤖 **ai-experiments** → Playing with AI models  
+
+---
+
+*"A bug is nothing but an enemy waiting to be defeated."* ⚔️
