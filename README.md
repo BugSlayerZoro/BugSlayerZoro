@@ -1,5 +1,3 @@
-# BugSlayerZoro
-
 Hi, I’m **BugSlayerZoro**.
 
 I build reliable software, solve difficult engineering problems and turn ideas into production ready systems.
